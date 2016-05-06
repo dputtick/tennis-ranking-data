@@ -1,0 +1,389 @@
+<div id="singlesRanking" class="table-rankings" data-filtered-module="playerRankDetail">
+	<div class="table-rankings-wrapper" id="rankingDetailAjaxContainer">
+		<table class="mega-table">
+	<thead>
+		<tr>
+				<th class="sorting-cell rank-heading sort-up">
+		<div class="sorting-inner">
+			<div class="sorting-label">
+				Ranking
+			</div>
+			<a href="/en/rankings/singles?rankDate=2016-3-21&amp;countryCode=all&amp;rankRange=1-100&amp;sort=rank&amp;sortAscending=False" class="sorting-arrow" data-filter-modules></a>
+		</div>
+	</th>
+
+				<th class="sorting-cell rank-heading sort-up">
+		<div class="sorting-inner">
+			<div class="sorting-label">
+				Move
+			</div>
+			<a href="/en/rankings/singles?rankDate=2016-3-21&amp;countryCode=all&amp;rankRange=1-100&amp;sort=move&amp;sortAscending=False" class="sorting-arrow" data-filter-modules></a>
+		</div>
+	</th>
+
+				<th class="sorting-cell rank-heading sort-up">
+		<div class="sorting-inner">
+			<div class="sorting-label">
+				Country
+			</div>
+			<a href="/en/rankings/singles?rankDate=2016-3-21&amp;countryCode=all&amp;rankRange=1-100&amp;sort=country&amp;sortAscending=False" class="sorting-arrow" data-filter-modules></a>
+		</div>
+	</th>
+
+				<th class="sorting-cell rank-heading sort-up">
+		<div class="sorting-inner">
+			<div class="sorting-label">
+				Player
+			</div>
+			<a href="/en/rankings/singles?rankDate=2016-3-21&amp;countryCode=all&amp;rankRange=1-100&amp;sort=player&amp;sortAscending=False" class="sorting-arrow" data-filter-modules></a>
+		</div>
+	</th>
+
+				<th class="sorting-cell rank-heading sort-up">
+		<div class="sorting-inner">
+			<div class="sorting-label">
+				Age
+			</div>
+			<a href="/en/rankings/singles?rankDate=2016-3-21&amp;countryCode=all&amp;rankRange=1-100&amp;sort=age&amp;sortAscending=False" class="sorting-arrow" data-filter-modules></a>
+		</div>
+	</th>
+
+				<th class="sorting-cell rank-heading sort-up">
+		<div class="sorting-inner">
+			<div class="sorting-label">
+				Points
+			</div>
+			<a href="/en/rankings/singles?rankDate=2016-3-21&amp;countryCode=all&amp;rankRange=1-100&amp;sort=points&amp;sortAscending=False" class="sorting-arrow" data-filter-modules></a>
+		</div>
+	</th>
+
+				<th class="sorting-cell rank-heading sort-up">
+		<div class="sorting-inner">
+			<div class="sorting-label">
+				Tourn Played
+			</div>
+			<a href="/en/rankings/singles?rankDate=2016-3-21&amp;countryCode=all&amp;rankRange=1-100&amp;sort=tournPlayed&amp;sortAscending=False" class="sorting-arrow" data-filter-modules></a>
+		</div>
+	</th>
+
+	<th class="sorting-cell rank-heading sort-up">
+		<div class="sorting-inner">
+			<div class="sorting-label">
+				Points Dropping
+			</div>
+			<a href="/en/rankings/singles?rankDate=2016-3-21&amp;countryCode=all&amp;rankRange=1-100&amp;sort=pointsDropping&amp;sortAscending=False" class="sorting-arrow" data-filter-modules></a>
+		</div>
+	</th>
+	<th class="sorting-cell rank-heading sort-up">
+		<div class="sorting-inner">
+			<div class="sorting-label">
+				Next Best
+			</div>
+			<a href="/en/rankings/singles?rankDate=2016-3-21&amp;countryCode=all&amp;rankRange=1-100&amp;sort=nextBest&amp;sortAscending=False" class="sorting-arrow" data-filter-modules></a>
+		</div>
+	</th>
+
+		</tr>
+	</thead>
+	<tbody>
+			<tr>
+				<td class="rank-cell">
+					1
+				</td>
+				<td class="move-cell">
+					<div class="move-none"></div>
+					<div class="move-text">
+					</div>
+				</td>
+				<td class="country-cell">
+					<div class="country-inner">
+						<div class="country-item">
+							<img src="/~/media/images/flags/srb.png" alt="SRB" onerror="this.remove()">
+						</div>
+					</div>
+				</td>
+				<td class="player-cell">
+<a href="/en/players/novak-djokovic/d643/overview" data-ga-label="Novak Djokovic">Novak Djokovic</a>				</td>
+				<td class="age-cell">
+28				</td>
+				<td class="points-cell">
+<a href="/en/players/novak-djokovic/d643/rankings-breakdown?team=singles" data-ga-label="rankings-breakdown">16,540</a>				</td>
+				<td class="tourn-cell">
+<a href="/en/players/novak-djokovic/d643/player-activity?matchType=singles" data-ga-label="player-activity">17</a>				</td>
+					<td class="pts-cell">
+						1,000
+					</td>
+					<td class="next-cell">
+						0
+					</td>
+			</tr>
+			<tr>
+				<td class="rank-cell">
+					2
+				</td>
+				<td class="move-cell">
+					<div class="move-none"></div>
+					<div class="move-text">
+					</div>
+				</td>
+				<td class="country-cell">
+					<div class="country-inner">
+						<div class="country-item">
+							<img src="/~/media/images/flags/gbr.svg" alt="GBR" onerror="this.remove()">
+						</div>
+					</div>
+				</td>
+				<td class="player-cell">
+<a href="/en/players/andy-murray/mc10/overview" data-ga-label="Andy Murray">Andy Murray</a>				</td>
+				<td class="age-cell">
+28				</td>
+				<td class="points-cell">
+<a href="/en/players/andy-murray/mc10/rankings-breakdown?team=singles" data-ga-label="rankings-breakdown">8,370</a>				</td>
+				<td class="tourn-cell">
+<a href="/en/players/andy-murray/mc10/player-activity?matchType=singles" data-ga-label="player-activity">18</a>				</td>
+					<td class="pts-cell">
+						600
+					</td>
+					<td class="next-cell">
+						0
+					</td>
+			</tr>
+			<tr>
+				<td class="rank-cell">
+					3
+				</td>
+				<td class="move-cell">
+					<div class="move-none"></div>
+					<div class="move-text">
+					</div>
+				</td>
+				<td class="country-cell">
+					<div class="country-inner">
+						<div class="country-item">
+							<img src="/~/media/images/flags/sui.svg" alt="SUI" onerror="this.remove()">
+						</div>
+					</div>
+				</td>
+				<td class="player-cell">
+<a href="/en/players/roger-federer/f324/overview" data-ga-label="Roger Federer">Roger Federer</a>				</td>
+				<td class="age-cell">
+34				</td>
+				<td class="points-cell">
+<a href="/en/players/roger-federer/f324/rankings-breakdown?team=singles" data-ga-label="rankings-breakdown">7,695</a>				</td>
+				<td class="tourn-cell">
+<a href="/en/players/roger-federer/f324/player-activity?matchType=singles" data-ga-label="player-activity">16</a>				</td>
+					<td class="pts-cell">
+						0
+					</td>
+					<td class="next-cell">
+						0
+					</td>
+			</tr>
+			<tr>
+				<td class="rank-cell">
+					4
+				</td>
+				<td class="move-cell">
+					<div class="move-none"></div>
+					<div class="move-text">
+					</div>
+				</td>
+				<td class="country-cell">
+					<div class="country-inner">
+						<div class="country-item">
+							<img src="/~/media/images/flags/sui.svg" alt="SUI" onerror="this.remove()">
+						</div>
+					</div>
+				</td>
+				<td class="player-cell">
+<a href="/en/players/stan-wawrinka/w367/overview" data-ga-label="Stan Wawrinka">Stan Wawrinka</a>				</td>
+				<td class="age-cell">
+30				</td>
+				<td class="points-cell">
+<a href="/en/players/stan-wawrinka/w367/rankings-breakdown?team=singles" data-ga-label="rankings-breakdown">6,405</a>				</td>
+				<td class="tourn-cell">
+<a href="/en/players/stan-wawrinka/w367/player-activity?matchType=singles" data-ga-label="player-activity">23</a>				</td>
+					<td class="pts-cell">
+						45
+					</td>
+					<td class="next-cell">
+						45
+					</td>
+			</tr>
+			<tr>
+				<td class="rank-cell">
+					5
+				</td>
+				<td class="move-cell">
+					<div class="move-none"></div>
+					<div class="move-text">
+					</div>
+				</td>
+				<td class="country-cell">
+					<div class="country-inner">
+						<div class="country-item">
+							<img src="/~/media/images/flags/esp.svg" alt="ESP" onerror="this.remove()">
+						</div>
+					</div>
+				</td>
+				<td class="player-cell">
+<a href="/en/players/rafael-nadal/n409/overview" data-ga-label="Rafael Nadal">Rafael Nadal</a>				</td>
+				<td class="age-cell">
+29				</td>
+				<td class="points-cell">
+<a href="/en/players/rafael-nadal/n409/rankings-breakdown?team=singles" data-ga-label="rankings-breakdown">4,990</a>				</td>
+				<td class="tourn-cell">
+<a href="/en/players/rafael-nadal/n409/player-activity?matchType=singles" data-ga-label="player-activity">23</a>				</td>
+					<td class="pts-cell">
+						45
+					</td>
+					<td class="next-cell">
+						150
+					</td>
+			</tr>
+			<tr>
+				<td class="rank-cell">
+					6
+				</td>
+				<td class="move-cell">
+					<div class="move-none"></div>
+					<div class="move-text">
+					</div>
+				</td>
+				<td class="country-cell">
+					<div class="country-inner">
+						<div class="country-item">
+							<img src="/~/media/images/flags/jpn.svg" alt="JPN" onerror="this.remove()">
+						</div>
+					</div>
+				</td>
+				<td class="player-cell">
+<a href="/en/players/kei-nishikori/n552/overview" data-ga-label="Kei Nishikori">Kei Nishikori</a>				</td>
+				<td class="age-cell">
+26				</td>
+				<td class="points-cell">
+<a href="/en/players/kei-nishikori/n552/rankings-breakdown?team=singles" data-ga-label="rankings-breakdown">4,070</a>				</td>
+				<td class="tourn-cell">
+<a href="/en/players/kei-nishikori/n552/player-activity?matchType=singles" data-ga-label="player-activity">21</a>				</td>
+					<td class="pts-cell">
+						180
+					</td>
+					<td class="next-cell">
+						45
+					</td>
+			</tr>
+			<tr>
+				<td class="rank-cell">
+					7
+				</td>
+				<td class="move-cell">
+					<div class="move-none"></div>
+					<div class="move-text">
+					</div>
+				</td>
+				<td class="country-cell">
+					<div class="country-inner">
+						<div class="country-item">
+							<img src="/~/media/images/flags/cze.svg" alt="CZE" onerror="this.remove()">
+						</div>
+					</div>
+				</td>
+				<td class="player-cell">
+<a href="/en/players/tomas-berdych/ba47/overview" data-ga-label="Tomas Berdych">Tomas Berdych</a>				</td>
+				<td class="age-cell">
+30				</td>
+				<td class="points-cell">
+<a href="/en/players/tomas-berdych/ba47/rankings-breakdown?team=singles" data-ga-label="rankings-breakdown">3,810</a>				</td>
+				<td class="tourn-cell">
+<a href="/en/players/tomas-berdych/ba47/player-activity?matchType=singles" data-ga-label="player-activity">22</a>				</td>
+					<td class="pts-cell">
+						360
+					</td>
+					<td class="next-cell">
+						90
+					</td>
+			</tr>
+			<tr>
+				<td class="rank-cell">
+					8
+				</td>
+				<td class="move-cell">
+					<div class="move-none"></div>
+					<div class="move-text">
+					</div>
+				</td>
+				<td class="country-cell">
+					<div class="country-inner">
+						<div class="country-item">
+							<img src="/~/media/images/flags/esp.svg" alt="ESP" onerror="this.remove()">
+						</div>
+					</div>
+				</td>
+				<td class="player-cell">
+<a href="/en/players/david-ferrer/f401/overview" data-ga-label="David Ferrer">David Ferrer</a>				</td>
+				<td class="age-cell">
+33				</td>
+				<td class="points-cell">
+<a href="/en/players/david-ferrer/f401/rankings-breakdown?team=singles" data-ga-label="rankings-breakdown">3,505</a>				</td>
+				<td class="tourn-cell">
+<a href="/en/players/david-ferrer/f401/player-activity?matchType=singles" data-ga-label="player-activity">21</a>				</td>
+					<td class="pts-cell">
+						180
+					</td>
+					<td class="next-cell">
+						0
+					</td>
+			</tr>
+			<tr>
+				<td class="rank-cell">
+					9
+				</td>
+				<td class="move-cell">
+					<div class="move-none"></div>
+					<div class="move-text">
+					</div>
+				</td>
+				<td class="country-cell">
+					<div class="country-inner">
+						<div class="country-item">
+							<img src="/~/media/images/flags/fra.svg" alt="FRA" onerror="this.remove()">
+						</div>
+					</div>
+				</td>
+				<td class="player-cell">
+<a href="/en/players/jo-wilfried-tsonga/t786/overview" data-ga-label="Jo-Wilfried Tsonga">Jo-Wilfried Tsonga</a>				</td>
+				<td class="age-cell">
+30				</td>
+				<td class="points-cell">
+<a href="/en/players/jo-wilfried-tsonga/t786/rankings-breakdown?team=singles" data-ga-label="rankings-breakdown">3,130</a>				</td>
+				<td class="tourn-cell">
+<a href="/en/players/jo-wilfried-tsonga/t786/player-activity?matchType=singles" data-ga-label="player-activity">22</a>				</td>
+					<td class="pts-cell">
+						45
+					</td>
+					<td class="next-cell">
+						0
+					</td>
+			</tr>
+			<tr>
+				<td class="rank-cell">
+					10
+				</td>
+				<td class="move-cell">
+					<div class="move-none"></div>
+					<div class="move-text">
+					</div>
+				</td>
+				<td class="country-cell">
+					<div class="country-inner">
+						<div class="country-item">
+							<img src="/~/media/images/flags/fra.svg" alt="FRA" onerror="this.remove()">
+						</div>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+		</table>
+	</div>
+</div>
+
